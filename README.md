@@ -1,5 +1,5 @@
 # SPAMMER
-spammer adalah script gratis berguna untuk spam operator [sms,call,wa]
+spammer adalah script spam menggunakan api [sms,call,wa]
 
 # $STEP 
 
