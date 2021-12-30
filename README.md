@@ -1,5 +1,5 @@
 # SPAMMER
-spammer adalah script spam menggunakan api [sms,call,wa]
+spammer adalah script spam yang menggunakan api [sms,call,wa]
 
 # $STEP 
 
